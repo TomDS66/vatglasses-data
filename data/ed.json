@@ -13562,18 +13562,7 @@
     "EDDM": {
       "callsign": "München",
       "coord": [48.353889, 11.786111],
-      "topdown": [
-        "DMNL",
-        "DMSL",
-        "DMNH",
-        "DMSH",
-        "DMNAT",
-        "DMSAT",
-        "NDG",
-        "ZUG",
-        "RDG",
-        "MMC"
-      ]
+      "topdown": ["DMNL", "DMSL", "DMNH", "DMSH", "DMNAT", "DMSAT", "NDG", "ZUG", "RDG", "MMC"]
     },
     "EDDN": {
       "callsign": "Nürnberg",
@@ -13593,17 +13582,7 @@
     "EDMA": {
       "callsign": "Augsburg",
       "coord": [48.425166666667, 10.931833333333],
-      "topdown": [
-        "DMNL",
-        "DMSL",
-        "DMNH",
-        "DMSH",
-        "SWA",
-        "NDG",
-        "ZUG",
-        "RDG",
-        "MMC"
-      ]
+      "topdown": ["DMNL", "DMSL", "DMNH", "DMSH", "SWA", "NDG", "ZUG", "RDG", "MMC"]
     },
     "EDMO": {
       "callsign": "Oberpfaffenhofen",
