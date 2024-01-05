@@ -13559,6 +13559,41 @@
   },
 
   "airports": {
+    "EDAB": {
+      "callsign": "Bautzen",
+      "coord": [51.193529611,14.519746917],
+      "topdown": []
+    },
+    "EDAC": {
+      "callsign": "Leipzig-Altenburg",
+      "coord": [50.981817922,12.506361797],
+      "topdown": []
+    },
+    "EDAY": {
+      "callsign": "Strausberg",
+      "coord": [52.580176784,13.915078701],
+      "topdown": []
+    },
+    "EDAZ": {
+      "callsign": "Schoenhagen",
+      "coord": [52.203888889,13.16],
+      "topdown": []
+    },
+    "EDBH": {
+      "callsign": "Barth",
+      "coord": [54.338175611,12.710105472],
+      "topdown": []
+    },
+    "EDBM": {
+      "callsign": "Magdeburg",
+      "coord": [52.073658611,11.626466944],
+      "topdown": []
+    },
+    "EDBN": {
+      "callsign": "Neubrandenburg",
+      "coord": [53.602235833,13.306080278],
+      "topdown": []
+    },
     "EDDM": {
       "callsign": "München",
       "coord": [48.353889, 11.786111],
@@ -13725,6 +13760,96 @@
       "callsign": "Sylt",
       "coord": [54.911666666667, 8.3423333333333],
       "topdown": ["EIDE", "ALR", "EIDW", "WWC"]
+    },
+    "EDFQ": {
+      "callsign": "Allendorf/Eder",
+      "coord": [51.035368306,8.680863528],
+      "topdown": []
+    },
+    "EDGS": {
+      "callsign": "Siegerland",
+      "coord": [50.707659531,8.082968467],
+      "topdown": []
+    },
+    "EDHI": {
+      "callsign": "Finkenwerder",
+      "coord": [53.5337975,9.832286111],
+      "topdown": []
+    },
+    "EDHK": {
+      "callsign": "Kiel-Holtenau",
+      "coord": [54.379468647,10.145148602],
+      "topdown": []
+    },
+    "EDME": {
+      "callsign": "Eggenfelden",
+      "coord": [48.396111111,12.723611111],
+      "topdown": []
+    },
+    "EDMS": {
+      "callsign": "Straubing",
+      "coord": [48.900950383,12.518187466],
+      "topdown": []
+    },
+    "EDMX": {
+      "callsign": "Oberschleissheim Helipad",
+      "coord": [48.237948889,11.565418333],
+      "topdown": []
+    },
+    "EDPR": {
+      "callsign": "Donauwoerth Helipad",
+      "coord": [48.707485278,10.769258889],
+      "topdown": []
+    },
+    "EDQA": {
+      "callsign": "Bamberg-Breitenau",
+      "coord": [49.92055,10.914488889],
+      "topdown": []
+    },
+    "EDQC": {
+      "callsign": "Coburg-Brandensteinsebene",
+      "coord": [50.263278554,10.995048712],
+      "topdown": []
+    },
+    "EDQD": {
+      "callsign": "Bayreuth",
+      "coord": [49.984427423,11.638569645],
+      "topdown": []
+    },
+    "EDQG": {
+      "callsign": "Giebelstadt",
+      "coord": [49.648130556,9.966483333],
+      "topdown": []
+    },
+    "EDRZ": {
+      "callsign": "Zweibruecken",
+      "coord": [49.209525,7.400647222],
+      "topdown": []
+    },
+    "EDTD": {
+      "callsign": "Donaueschingen-Villingen",
+      "coord": [47.973518445,8.522110214],
+      "topdown": []
+    },
+    "EDTM": {
+      "callsign": "Mengen-Hohentengen",
+      "coord": [48.053888889,9.372777778],
+      "topdown": []
+    },
+    "EDTY": {
+      "callsign": "Schwaebisch Hall",
+      "coord": [49.118317139,9.783955667],
+      "topdown": []
+    },
+    "EDWE": {
+      "callsign": "Emden",
+      "coord": [53.390975436,7.225597976],
+      "topdown": []
+    },
+    "EDWI": {
+      "callsign": "Wilhelmshaven Jadeweser Aiport",
+      "coord": [53.504849737,8.053250735],
+      "topdown": []
     }
   }
 }
